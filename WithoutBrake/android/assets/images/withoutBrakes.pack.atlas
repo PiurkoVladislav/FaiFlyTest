@@ -1,0 +1,27 @@
+
+withoutBrakes.pack.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car
+  rotate: false
+  xy: 2, 2
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: -1
+vorota1
+  rotate: false
+  xy: 139, 2
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: -1
+vorota2
+  rotate: false
+  xy: 276, 2
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: -1

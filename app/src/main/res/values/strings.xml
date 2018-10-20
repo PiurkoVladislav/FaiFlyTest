@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaiFly Test</string>
+    <string name="button_split">SPLIT</string>
+    <string name="text_result">RESULT</string>
+    <string name="hint_text">Text</string>
+
+</resources>
